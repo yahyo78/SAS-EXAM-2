@@ -39,8 +39,18 @@ ___
   &nbsp;&nbsp;&nbsp; --Хизматрасониҳо мисли GitHub, GitLab, ва Bitbucket Git-ро истифода мебаранд.--<br><br>
 <br><br><br>
 <details>
-  <summary>Расмро бинед</summary>
- https://avatars.dzeninfra.ru/get-zen_doc/3524431/pub_5f3fab30ec8ffe34a08705a2_5f3fab84f04e9a5d66c9aa23/scale_1200
+  <summary> Расми GIT</summary>
+  https://avatars.dzeninfra.ru/get-zen_doc/3524431/pub_5f3fab30ec8ffe34a08705a2_5f3fab84f04e9a5d66c9aa23/scale_1200
 </details>
-Маьлумоти зиедтар дар бораи GIT > https://en.wikipedia.org/wiki/Git<br><br><br>
-![alt text](https://avatars.dzeninfra.ru/get-zen_doc/3524431/pub_5f3fab30ec8ffe34a08705a2_5f3fab84f04e9a5d66c9aa23/scale_1200)
+<details>
+  <summary>Маьлумоти зиедтар дар бораи GIT > </summary>
+ **ЧАРО ГИТ МУҲИМ АСТ?**<br><br>
+**1.Назорати пурраи таърих:**<br><br>
+  &nbsp;&nbsp;&nbsp; --Ҳамаи версияҳои файлҳо нигоҳ дошта мешаванд ва ҳар вақт ба версияҳои пешина баргаштан мумкин аст.--<br><br>
+**2.Кор дар даста:**<br><br>
+  &nbsp;&nbsp;&nbsp; --Барномасозон метавонанд ҳамзамон бо як лоиҳа кор кунанд ва тағйиротҳои худро муттаҳид намоянд.--<br><br>
+**3.Таъмини эътимоднокӣ:**<br><br>
+  &nbsp;&nbsp;&nbsp; --Git тағйиротҳоро бехатар нигоҳ медорад ва хатоҳои инсонӣ кам карда мешаванд.--<br><br>
+**4.Истифода дар платформаҳои машҳур:**<br><br>
+  &nbsp;&nbsp;&nbsp; --Хизматрасониҳо мисли GitHub, GitLab, ва Bitbucket Git-ро истифода мебаранд.--<br><br>
+</details>
