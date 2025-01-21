@@ -38,5 +38,9 @@ ___
 **4.Истифода дар платформаҳои машҳур:**<br><br>
   &nbsp;&nbsp;&nbsp; --Хизматрасониҳо мисли GitHub, GitLab, ва Bitbucket Git-ро истифода мебаранд.--<br><br>
 <br><br><br>
+<details>
+  <summary>Расмро бинед</summary>
+  ![Намунаи расм](example.jpg)
+</details>
 Маьлумоти зиедтар дар бораи GIT > https://en.wikipedia.org/wiki/Git<br><br><br>
 ![alt text](https://avatars.dzeninfra.ru/get-zen_doc/3524431/pub_5f3fab30ec8ffe34a08705a2_5f3fab84f04e9a5d66c9aa23/scale_1200)
