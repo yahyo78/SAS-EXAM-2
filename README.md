@@ -40,7 +40,7 @@ ___
 <br><br><br>
 <details>
   <summary>Расмро бинед</summary>
-  ![Намунаи расм](example.jpg)
+  ![alt text](https://avatars.dzeninfra.ru/get-zen_doc/3524431/pub_5f3fab30ec8ffe34a08705a2_5f3fab84f04e9a5d66c9aa23/scale_1200)
 </details>
 Маьлумоти зиедтар дар бораи GIT > https://en.wikipedia.org/wiki/Git<br><br><br>
 ![alt text](https://avatars.dzeninfra.ru/get-zen_doc/3524431/pub_5f3fab30ec8ffe34a08705a2_5f3fab84f04e9a5d66c9aa23/scale_1200)
