@@ -40,11 +40,11 @@ ___
 <br><br><br>
 <details>
   <summary> Расми GIT</summary>
-  https://avatars.dzeninfra.ru/get-zen_doc/3524431/pub_5f3fab30ec8ffe34a08705a2_5f3fab84f04e9a5d66c9aa23/scale_1200
+  <br><br>https://avatars.dzeninfra.ru/get-zen_doc/3524431/pub_5f3fab30ec8ffe34a08705a2_5f3fab84f04e9a5d66c9aa23/scale_1200
 </details>
 <details>
   <summary>Маьлумоти зиедтар дар бораи GIT > </summary>
- **ЧАРО ГИТ МУҲИМ АСТ?**<br><br>
+ <br><br>**ЧАРО ГИТ МУҲИМ АСТ?**<br><br>
 **1.Назорати пурраи таърих:**<br><br>
   &nbsp;&nbsp;&nbsp; --Ҳамаи версияҳои файлҳо нигоҳ дошта мешаванд ва ҳар вақт ба версияҳои пешина баргаштан мумкин аст.--<br><br>
 **2.Кор дар даста:**<br><br>
